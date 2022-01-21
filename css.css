@@ -1,0 +1,77 @@
+#header {
+    background: dimgray;
+    height: 80px;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+.text {
+    background: black;
+    height: 39px;
+    width: 100%;
+}
+
+.xem {
+    background: grey;
+    height: 200px;
+    width: 100%;
+}
+
+.a1 {
+    height: 180px;
+    width: 100%;
+}
+
+.text2 {
+    background: black;
+    height: 39px;
+    width: 100%;
+
+}
+
+#main {
+    background: palegoldenrod;
+    height: 1000px;
+    width: 70%;
+    float: left;
+}
+
+#sidebar {
+    background: aqua;
+    height: 1000px;
+    width: 30%;
+    float: left;
+}
+
+
+#footer {
+    background: black;
+    height: 100px;
+    width: 100%;
+    clear: both;
+}
+
+
+.cl1 {
+    text-align: center;
+    border-radius: 10px;
+}
+
+.a2 {
+    height: 300px;
+    width: 200px;
+
+}
+
+.a3 {
+    height: 300px;
+    width: 600px;
+
+}
+.a4 {
+    height: 180px;
+    width: 200px;
+}
